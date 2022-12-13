@@ -1,3 +1,4 @@
+import(friendsName);
 var inputName='';
 
 function clickME(){
