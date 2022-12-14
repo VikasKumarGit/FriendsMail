@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="css/styleHome.css">
+        <link rel="stylesheet" href="css/headerCSS.css">
+        <link rel="stylesheet" href="css/footerCSS.css">
+        <link rel="stylesheet" href="css/messageCSS.css">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta charset="UTF-8">
+
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <script src="https://code.jquery.com/jquery-3.6.1.js" integrity="sha256-3zlB5s2uwoUzrXK3BT7AX3FyvojsraNFxCc2vC/7pNI=" crossorigin="anonymous"></script>
+        
+
+        <title>FriendsMail - Home</title>
+        <link rel="icon" type="image/png" href="images/favicon.png"/>
+
+    </head>
+    <body>
+        <header id="header"></header>
+
+        <div class="" id="namePanel">
+            <div class="userIN">
+                <h1>Enter Your First Name to Find your message</h1>
+                <button onclick="clickME()">Click to Enter Your Name</button>
+                <p style="margin-top: 10px; text-align: center;">Please Donn't try to spoil other's messages... &#128541;</p>
+            </div>
+        </div>
+
+        <div class="hideAll" id="messagePanel">
+            <h1>Hello <span id="alpha"> </span>, you got a message form Vikas.</h1>
+            <div class="messageBox">
+                <div class="message" id="beta"> </div>
+            </div>
+            <div class="seprater"></div>
+            <div class="hideAll" id="specialMPannel">
+                <h5 style="margin: 10px;">Another Box...</h5>
+                <p style="margin: 15px;">If you are intersted to open this messageBox... I drop a message in RedCarpetv2 find the sentence and paste in the box <b>OR</b> consider this is nothing but TRASH.</p> 
+                <div id="validate" style="margin: 10px;">
+                    <input id="velidateText" type="text" placeholder="  enter the velidation key">
+                    <button id="veryfy" onclick="validateKey()">validate</button>
+                </div>
+
+                <div class="messageBox">
+                    <div class="message" id="unlockMessage"> </div>
+                </div>
+            </div>
+
+            <div class="common">
+                <p>keep learning, keep growing...</p>
+            </div>
+        </div>
+
+       <div class="thinkCloud">
+            <h1 style="margin-top: 25px;">MOOD</h1>
+            <ul style="margin-top: 25px;">
+                <li>&#128541; FUN</li>
+                <li>&#128150; HEART</li>
+                <li>&#128518; LAUGH</li>
+                <li>&#128545; ANGER</li>
+                <li>&#128548; STRESS</li>
+                <li>&#128552; SHOCK</li>
+                <li>&#128554; SLEEP</li>
+                <li>&#128558; EXCITED</li>
+                <li>&#128525; CRUSH</li>
+            </ul>
+        </div>
+    <footer id="footer"></footer>
+    <script type="text/javascript" src="data/database.js"></script>
+    <script src="assets/validateKey.js"></script>
+    <script type="text/javascript" src="assets/printMessage.js"></script>
+    <script type="text/javascript" src="assets/validate.js"></script>
+    <script type="text/javascript" src="assets/common.js"></script>
+     
+    </body>
+</html>
