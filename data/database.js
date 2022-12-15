@@ -3,7 +3,7 @@ var friendsName={
     AJEET:'Hi daadhi mutch wale ladke life kaisi chal rahi hai... 3rd Sem. me 910/1100 marks le aaya ab to scholarship bharna banta hai. US din tune mujhe LEET or B. Tech ke bare me bataya uske liye thanks mujhe aage help karega. Or iss bar ki taiyari kaisi chal rahi hai..? jo bhi hai All the best.',
     AKANKSHA3:'Most active CR in CE 5th sem... 1-5 sem. tak aapne puri class ko sambhala, I hope aage bhi sambhalegi... Iske saath 964/1100 marks 3th sem. me aaye har chiz ko manage karte hue... thats nice... and thanks for ALL... and BEST of luck for final exam.',
     AKANKSHA4:'How are you this time... apni sehat ka dhayan rakha karo... you have a good score in 3rd sem 912/1100... I hope is baar bhi atche honge... All the best',
-    AKASH:'Hello... studies ke saath-saath job bhi karte hue har koi aisa ni kar pata... Very responible person... 3rd sem. me 912/1100 marks bi aaye... weldone bro. I hope is baar ki bhi atchi preparetion rakhi hogi.',
+    AKASH:'Hello... studies ke saath-saath job bhi karte hue... har koi aisa ni kar pata... Very responible person... 3rd sem. me 935/1100 marks bi aaye... weldone bro. I hope is baar ki bhi atchi preparetion rakhi hogi.',
     AKSHAY:'Kaha gayab rata hai... apni alag duniya me.. or har field me smart... 989/1100 3rd sem. me le aaya ladka... is baar ki kya preparetion hai... I hope atchi hi hogi.',
     AMARJEET:'Or bhai final ki kya preparetion chal rahi hai? 866/1100 le aaya 3rd sem. me... i hope is baar ki bhi taiyari badiya hogi.',
     AMIT:'Or bhai final ki kya preparetion chal rahi hai? 940/1100 le aaya 3rd sem. me... i hope is baar ki bhi taiyari badiya hogi.',
