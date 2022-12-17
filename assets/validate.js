@@ -11,8 +11,8 @@ function clickME(){
     var specialMessageBody=document.getElementById('specialMPannel');
 
     for(value of Object.getOwnPropertyNames(friendsName)){
-        if(value==upperName && value=='SHUBHA'){
-            alert('you got a special message form Vikas')
+        if(value==upperName && value=='VIKAS'){
+            alert('are you feeling this again...')
             inputName=value;
             homeBody.className='hideAll';
             messageBody.className='messagePanel';

@@ -57,7 +57,7 @@ var friendsName={
     SOURAV60:'First of all... thanks for everything jo tune mujhe crypto se introduce karaya... FITFI se thoda profit bhi dila diya... or CN ki file complete karane ke liye... 906/1100 marks hai that is very nice... kaise kar lete ho ye sab..? jo bhi hai... Best of luck for next examination.',
     SUDIKSHA:'jindgi me padai-likhaai chal rahi hai ya ni..? 860/1100 hai 3rd sem me... Ab to final hai... I hope preparation sahi chal rahi hogi... All the best for next examination.',
     SURAJ:'First of all thanks for helping... in completing my CN file and YT premium ke liye bhi... next time mai primium lunga... mujhe bata diyo kaise purchase karna hai... 913/1100 hai 3rd sem me... all the best for next examination.',
-    VIKAS:'If you really Like her... go and tell. who knows what happens tommorow..? let me focus on my goal this time.........',
+    VIKAS:'If you really Like her... go and tell. who knows what happens tommorow..? I want to Tell but i will not... do this',
     VISHAL:'Kya chal raha hai bro... ar tumhari job... preparation karte rahna... 915/1100 hai 3rd Sem. me... best of luck for next examination',
     YASH:'Gao ghum liya... Shaadi dekh li... ab padai bhi kar le... maine tujhe kutch or bhi kaha tha.. jo tu nai anime dekhega use tu mujhe... episodes send kar de... yaad hai..? 839/1100 marks hai 3rd sem. me... I hope next exam ki puri taiyari kar li hogi... Good Luck.',
     KISHAN:'Or bhai final ki kya preparetion chal rahi hai?... i hope is baar ki bhi taiyari badiya hogi... best of luck.',
@@ -66,12 +66,12 @@ var friendsName={
     SUMIT:'Or bhai final ki kya preparetion chal rahi hai?... i hope is baar ki bhi taiyari badiya hogi. best of luck.',
     ARUN:'First of all... thanks for completing my CN prectical file that day... and instagram tips ke liye bhi... age apne eSports ke bare me kya sotcha hai..? ak baat or tune mujhe bataya ni... ki kya hua CW me jo assinment diya tha mam ne... final paper start ho rahe hai... I hope preparation kar li hogi... best of luck.',
     KORLISH:'Tune mujhe bataya ni... aage apni blogger journy ke baare me..? ab final paper start ho rahe hai... I hope preparation kar li hogi... best of luck.',
-    SHUBHA:'Hello Morning... means Shubha, just kidding. How your preparation going... for 5th sem. examination. You score 973/1100 very well... in 3rd sem. KEEP IT UP.',
+    SHUBHA:'Shubha, How your preparation going... for 5th sem. examination. You score 973/1100 very well... in 3rd sem. KEEP IT UP well wishes from me... and BEST of LUCK.'
 };
 
 var validate_key="I LIKE YOU MORNING"
 var msgg={
-    message:"Firstly thanks you open it... before you read please don't spoil this... this is nothing but TRASH... if you are not intrested please close... I donn't know why i put this here... this is for someone that i really like... jab bhi mai tumhe dekhta hu... mujhe tumse baat karne, rahne, enjoy karne ka man karta hai... ar pata ni kya-kya... sahi bolu to iss time mujhse...  ye type bhi nahi kiya ja raha... phle aisa akbhi feel bhi nahi hua mujhe... kisi ladki ke bare me... bs itna kafi hai. ab or ni bol paaunga..."
+    message:"There is more things you will find in your life... if you be able to think... from the place where you stand... har koi aisa feel karta karta hai... jo abhi tere saath hua... pr samjhdari issi me hai... ki apne aapko sambhalo or keep your steps up... for APPLICATION DEVELOPER JOURNY... and best of luck"
 }
 
 // kabhi-kabhi kutch chije hoti hai aisi... jinhe handle karna easy ni hota... pr apne aass-pass ke chijo ko samajah kar hame... apne-aapko adjust karna padta hai
